@@ -8,7 +8,10 @@ LICENSE: [BIT](license.md)
 
 ### Содержание
 1. [git add](add.md)
+2. [git status](status.md)
+3. [git diff](diff.md)
 
+---
 
 # task_4.1
-# task_4.1
+
